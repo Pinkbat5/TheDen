@@ -151,9 +151,9 @@
     Tequila:
       amount: 1
     VodkaRedBool:
-      amount: 2
+      amount: 3
   products:
-    BudgetInsulsDrink: 3
+    BudgetInsulsDrink: 4
 
 - type: reaction
   id: BlueHawaiian
